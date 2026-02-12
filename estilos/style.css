@@ -76,11 +76,9 @@ div.campo > label {
     display: none;
 }
 
-div.campo>span{
-    color: #5f2c82;
-    font-size: 2em;
-    width: 40px;
-    padding: 5px;
+div>img{
+    width: 17px;
+    padding-bottom: 8px;
 }
 
 div.campo>input {
@@ -90,6 +88,7 @@ div.campo>input {
     height: 70%;
     border:0px;
     border-radius: 6px;
+    margin-top: 12px ;
     padding: 6px;
     transform: translateY(-10px);
 }
